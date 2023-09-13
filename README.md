@@ -1,3 +1,4 @@
+![Image 1](https://github.com/TheNumber5/gravitational-potential-fractal/assets/30901594/a94e4d74-830d-408e-8301-800ff8fd1278)
 # Introduction
 [Explanatory video](https://www.youtube.com/watch?v=C5Jkgvw-Z6E)
 
